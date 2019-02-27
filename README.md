@@ -2,6 +2,8 @@
 Residual Invertible Spatio-Temporal Network For Video Super-Resolution.
 RISTN of AAAI-2019 poster.
 
+The code is not polished.
+We only provide testing code, because we will continue do this study for Trans.
 
 You can cite:
 
